@@ -27,6 +27,10 @@ To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+```
+Name : M.Rajeshkannan
+Reg_no : 212221230081
+```
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
